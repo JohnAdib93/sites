@@ -29,37 +29,26 @@ body {
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
-
 }
 
 /* Style the button and place it in the middle of the container/image */
 .btn-map {
+  width: 60px;
+  height: auto;
+  position: absolute;
+}
+
+.map {
   width: 100px;
   height: auto;
   position: absolute;
-  bottom: 20%;  
-  left: 50%;
+  top: 237vh;  
+  left: 51%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   padding: 12px 16px;
   border: none;
   cursor: pointer;
-}
-
-.btn {
-  width: 100%;
-  height: auto;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  border: none;
-  cursor: pointer;
-}
-
-
-.container .btn:hover {
-  border-radius: 45%;
-  background-color: rgb(131, 131, 131);
 }
 
 .contact {
@@ -103,7 +92,7 @@ bottom: 0;
 
 /* Change the color of links on hover */
 .navbar a:hover {
-background-color: rgb(163, 105, 238);
+background-color: rgb(255, 255, 255);
 color: black;
 }
 

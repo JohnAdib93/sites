@@ -10,6 +10,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+
 }
 
 .container-fluid {
@@ -21,7 +22,7 @@ body {
   
 }
 
-.img {
+.video {
   width: 100vw;
   height: 100vh;
   object-fit: cover;
@@ -44,7 +45,7 @@ body {
   width: 100px;
   height: auto;
   position: absolute;
-  top: 253vh;  
+  top: 251vh;  
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);

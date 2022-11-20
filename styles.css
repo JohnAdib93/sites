@@ -22,7 +22,7 @@ body {
   
 }
 
-.video {
+.img {
   width: 100vw;
   height: 100vh;
   object-fit: cover;
@@ -45,7 +45,7 @@ body {
   width: 100px;
   height: auto;
   position: absolute;
-  top: 251vh;  
+  top: 290vh;  
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);

@@ -18,9 +18,6 @@ body {
   height: 285vh;
   display: flex;
   justify-content: center;
-  background-image: url('/assets/wedding_card1.svg');
-  background-repeat: no-repeat;
-  background-position: center;
   
 }
 

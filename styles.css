@@ -15,7 +15,7 @@ body {
 
 .container-fluid {
   padding-top: 0;
-  width: 600px;
+  width: 100vw;
   height: 350vh;
   display: flex;
   justify-content: center;
